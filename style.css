@@ -1,0 +1,80 @@
+h3 {
+  text-align: left;
+  font-family: "Arial, sans-serif";
+  color: rgb(200, 202, 045);
+  font-size: 28px;
+  margin-bottom: 34px;
+}
+#e {
+  text-align: left;
+  font-family: "Arial, sans-serif";
+  color: rgb(200, 202, 045);
+  font-size: 28px;
+  margin-bottom: 34px;
+  background-color: rgba(0, 51, 102, 0.65);
+  width: 28%;
+}
+h4 {
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-family: "Arial", Times, sans-serif;
+  font-weight: normal;
+  margin-left: 2%;
+}
+h5 {
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  width: 62%;
+  font-family: "Arial", Times, sans-serif;
+  font-weight: normal;
+  margin-left: 2%;
+}
+h6 {
+  text-align: left;
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  background-color: rgba(0, 51, 102, 0.75);
+  font-family: "Arial", Times, sans-serif;
+  font-weight: normal;
+  margin-left: 2%;
+  width: 60%;
+}
+h1 {
+  text-align: center;
+  text-shadow: 2px 1px 4px rgba(0, 0, 0, 0.541);
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 255, 255);
+  font-size: 46px;
+  margin-bottom: 98px;
+}
+body {
+  background-image: url("ocean.jpg");
+}
+a {
+  color: rgb(200, 202, 045);
+}
+#carte {
+  margin-left: 65%;
+  margin-top: -18%;
+  border: 2px solid white;
+}
+#vendee {
+  margin-left: 65%;
+  margin-top: -17%;
+  border: 2px solid white;
+}
+#video {
+  margin: 0px 65%;
+}
+#haut {
+  text-shadow: 2px 1px 4px rgba(0, 0, 0, 0.541);
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(255, 255, 255);
+  font-size: 46px;
+  margin-bottom: 98px;
+}
+html {
+  scroll-behavior: smooth;
+}
